@@ -1,3 +1,13 @@
+Meeting: 18-Nov-2025
+----------------------
+
+1-  Operation above "duration in minuts" removed.
+2-  Start Shift auto get the time "shift ID" and time (default employee get from the work-center added)
+3-  Shop Floor work order color should be changed, when shift started and timer not need to show above. only the order name and description.
+4-  Work Center alternative option if order more then the capacity, sepcific product production time.
+5-  planning should be properly aligned with the current changes in odoo system.
+
+
 
 1-   Expected duration on the "open work center" tab.
 1.1- WorkCenter tab should be first over the operation tab. 
