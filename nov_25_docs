@@ -17,6 +17,29 @@ Meeting: 18-Nov-2025
 5- at closing shift supervisor will enter employee wise number of unit produced.
 
 
+----------------------------------------------
+
+work-center
+----------------------
+1- Supervisor Role group over the user  res.user instead of employee
+2- Allow Employee Mandatory over work
+3- company wise shift in the supervisor tab.
+4- operation delete btn over the BOM form.
+
+
+work order duration double showing.
+
+work order all at one time working. in the ready status.
+
+shift wise employee will appear over the start shift 
+
+and items consumed based on the employee qty produced selected.
+
+picking document is done then user start the shift,
+
+
+
+
 
 
 
